@@ -3,7 +3,7 @@ Natural language processing (NLP) is all about how computers work with human lan
 
 # Table of Contents
 **A-C. Welcome to the Natural Language Processing**
-- [A. NLP Learning Objectives]
+- [A. NLP Learning Objectives](https://github.com/the-machine-preacher/Pythonic-NLP-Tutorial/blob/main/A.%20NLP%20Learning%20Objectives.ipynb)
 - [B. Getting started with NLP]
 - [C1. Regular Expressions]
 - [C2. Text Preprocessing]
